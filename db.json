@@ -5,105 +5,105 @@
       "name": "Apple AirPods Pro 2nd Gen",
       "price": 249.99,
       "tags": ["Electronics", "Sale", "Popular"],
-      "image": "https://www.apple.com/v/airpods-pro/a/images/overview/hero__f7jwwvaakbuu_large_2x.jpg"
+      "image": "https://via.placeholder.com/150?text=Product+A"
     },
     {
       "id": 2,
       "name": "Nike Air Max 270 React",
       "price": 139.99,
       "tags": ["Clothing", "New", "Trendy"],
-      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/dcb23fbc-37a9-4e97-88fc-cf350e6279fd/air-max-270-react-mens-shoes-XQzBGR.png"
+      "image": "https://via.placeholder.com/150?text=Product+B"
     },
     {
       "id": 3,
       "name": "IKEA EKTORP Sofa",
       "price": 499.99,
       "tags": ["Furniture", "Home", "Luxury"],
-      "image": "https://www.ikea.com/us/en/images/products/ektorp-sofa-3-seat-blekinge-white__0734536_PE741591_S5.JPG"
+      "image": "https://via.placeholder.com/150?text=Product+C"
     },
     {
       "id": 4,
       "name": "Ninja Foodi Pressure Cooker & Air Fryer",
       "price": 199.99,
       "tags": ["Kitchen", "Essential", "New"],
-      "image": "https://m.media-amazon.com/images/I/91Xz-POv3rL._AC_SL1500_.jpg"
+      "image": "https://via.placeholder.com/150?text=Product+D"
     },
     {
       "id": 5,
       "name": "Ray-Ban Wayfarer Sunglasses",
       "price": 149.99,
       "tags": ["Accessories", "Bestseller", "Trendy"],
-      "image": "https://www.ray-ban.com/_img/desktop/_category-products/wayfarer/wayfarer-graphite.png"
+      "image": "https://via.placeholder.com/150?text=Product+E"
     },
     {
       "id": 6,
       "name": "Fitbit Charge 5",
       "price": 179.99,
       "tags": ["Sports", "Active", "Outdoor"],
-      "image": "https://static.fitbit.com/production/catalog/charge-5/charge-5-gallery-4.jpg"
+      "image": "https://via.placeholder.com/150?text=Product+F"
     },
     {
       "id": 7,
       "name": "Sony PlayStation 5",
       "price": 499.99,
       "tags": ["Gaming", "New", "Popular"],
-      "image": "https://www.playstation.com/en-us/support/hardware/images/ps5-console-hero.jpg"
+      "image": "https://via.placeholder.com/150?text=Product+G"
     },
     {
       "id": 8,
       "name": "GoPro HERO10 Black",
       "price": 499.99,
       "tags": ["Outdoors", "Adventure", "Luxury"],
-      "image": "https://gopro.com/-/media/Gopro/hero10-black/HERO10-Black_OneP80x.jpg"
+      "image": "https://via.placeholder.com/150?text=Product+H"
     },
     {
       "id": 9,
       "name": "Olay Regenerist Micro-Sculpting Cream",
       "price": 29.99,
       "tags": ["Beauty", "Skincare", "Bestseller"],
-      "image": "https://www.olay.com/-/media/olay/us/images/olay-products/regenerist/micro-sculpting-cream.png"
+      "image": "https://via.placeholder.com/150?text=Product+I"
     },
     {
       "id": 10,
       "name": "Apple MacBook Air M2",
       "price": 1199.99,
       "tags": ["Electronics", "Tech", "New"],
-      "image": "https://www.apple.com/v/macbook-air/m/images/hero__epccjqce06ii_large_2x.jpg"
+      "image": "https://via.placeholder.com/150?text=Product+J"
     },
     {
       "id": 11,
       "name": "LEGO Star Wars X-Wing Starfighter",
       "price": 79.99,
       "tags": ["Toys", "Kids", "Popular"],
-      "image": "https://www.lego.com/cdn/cs/set/assets/blt0e41395e88121a7d/x-wing_hero.jpg"
+      "image": "https://via.placeholder.com/150?text=Product+K"
     },
     {
       "id": 12,
       "name": "West Elm Mid-Century Sofa",
       "price": 899.99,
       "tags": ["Furniture", "Living Room", "Luxury"],
-      "image": "https://www.westelm.com/weimgs/rk/images/wk/pdp/202302/sofa-living-pdp-mid-century-sofa-living-room.jpg"
+      "image": "https://via.placeholder.com/150?text=Product+L"
     },
     {
       "id": 13,
       "name": "Yeti Rambler 36oz Bottle",
       "price": 49.99,
       "tags": ["Sports", "Outdoor", "Active"],
-      "image": "https://www.yeti.com/-/media/yeti/products/bottles/rambler/36oz-bottle/2023/0020.jpg"
+      "image": "https://via.placeholder.com/150?text=Product+M"
     },
     {
       "id": 14,
       "name": "Levi's 501 Original Fit Jeans",
       "price": 59.99,
       "tags": ["Clothing", "Men", "New"],
-      "image": "https://www.levi.com/medias/501original.jpg"
+      "image": "https://via.placeholder.com/150?text=Product+N"
     },
     {
       "id": 15,
       "name": "Breville BES870XL Barista Express Espresso Machine",
       "price": 799.99,
       "tags": ["Appliances", "Kitchen", "Sale"],
-      "image": "https://www.breville.com/media/wysiwyg/product_images/BES870XL/BES870XL.jpg"
+      "image": "https://via.placeholder.com/150?text=Product+O"
     }
   ],
   "product_detail_1": {
@@ -117,10 +117,11 @@
       "Color - Blue"
     ],
     "images": [
-      "https://www.apple.com/v/airpods-pro/a/images/overview/hero__f7jwwvaakbuu_large_2x.jpg",
-      "https://www.apple.com/v/airpods-pro/a/images/overview/hero__enko4xaak7gi_large_2x.jpg",
-      "https://www.apple.com/v/airpods-pro/a/images/overview/hero__frxkqhtv6m8u_large_2x.jpg",
-      "https://www.apple.com/v/airpods-pro/a/images/overview/hero__jhn5yygs5nww_large_2x.jpg"
+      "https://via.placeholder.com/150?text=Product+A",
+      "https://via.placeholder.com/150?text=Product+A-1",
+      "https://via.placeholder.com/150?text=Product+A-2",
+      "https://via.placeholder.com/150?text=Product+A-3",
+      "https://via.placeholder.com/150?text=Product+A-4"
     ]
   },
   "product_detail_2": {
@@ -136,10 +137,11 @@
       "Size - 10"
     ],
     "images": [
-      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/dcb23fbc-37a9-4e97-88fc-cf350e6279fd/air-max-270-react-mens-shoes-XQzBGR.png",
-      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f90509ad-c702-429d-89ee-e9fdfd3b7bb7/air-max-270-react-mens-shoes-DjVksR.png",
-      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/cf4ff02d-dccf-4e55-8b77-4e1f3cc2ec76/air-max-270-react-mens-shoes-N1Jjr1.png",
-      "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f89b0d50-f3a1-452f-b2a7-0564deec8d8b/air-max-270-react-mens-shoes-dlrg3m.png"
+      "https://via.placeholder.com/150?text=Product+B",
+      "https://via.placeholder.com/150?text=Product+B-1",
+      "https://via.placeholder.com/150?text=Product+B-2",
+      "https://via.placeholder.com/150?text=Product+B-3",
+      "https://via.placeholder.com/150?text=Product+B-4"
     ]
   }
 }
