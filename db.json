@@ -111,7 +111,7 @@
     "name": "Apple AirPods Pro 2nd Gen",
     "price": 249.99,
     "tags": ["Electronics", "Sale", "Popular"],
-    "Variation": [
+    "variations": [
       "Color - White",
       "Color - Black",
       "Color - Blue"
@@ -129,7 +129,7 @@
     "name": "Nike Air Max 270 React",
     "price": 139.99,
     "tags": ["Clothing", "New", "Trendy"],
-    "Variation": [
+    "variations": [
       "Size - 6",
       "Size - 7",
       "Size - 8",
