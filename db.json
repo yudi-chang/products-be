@@ -5,105 +5,105 @@
       "name": "Apple AirPods Pro 2nd Gen",
       "price": 249.99,
       "tags": ["Electronics", "Sale", "Popular"],
-      "image": "https://via.placeholder.com/150?text=Product+A"
+      "image": "https://placehold.co/400x500/34495e/FFF.png?text=Product+A"
     },
     {
       "id": 2,
       "name": "Nike Air Max 270 React",
       "price": 139.99,
       "tags": ["Clothing", "New", "Trendy"],
-      "image": "https://via.placeholder.com/150?text=Product+B"
+      "image": "https://placehold.co/400x500/34495e/FFF.png?text=Product+B"
     },
     {
       "id": 3,
       "name": "IKEA EKTORP Sofa",
       "price": 499.99,
       "tags": ["Furniture", "Home", "Luxury"],
-      "image": "https://via.placeholder.com/150?text=Product+C"
+      "image": "https://placehold.co/400x500/34495e/FFF.png?text=Product+C"
     },
     {
       "id": 4,
       "name": "Ninja Foodi Pressure Cooker & Air Fryer",
       "price": 199.99,
       "tags": ["Kitchen", "Essential", "New"],
-      "image": "https://via.placeholder.com/150?text=Product+D"
+      "image": "https://placehold.co/400x500/34495e/FFF.png?text=Product+D"
     },
     {
       "id": 5,
       "name": "Ray-Ban Wayfarer Sunglasses",
       "price": 149.99,
       "tags": ["Accessories", "Bestseller", "Trendy"],
-      "image": "https://via.placeholder.com/150?text=Product+E"
+      "image": "https://placehold.co/400x500/34495e/FFF.png?text=Product+E"
     },
     {
       "id": 6,
       "name": "Fitbit Charge 5",
       "price": 179.99,
       "tags": ["Sports", "Active", "Outdoor"],
-      "image": "https://via.placeholder.com/150?text=Product+F"
+      "image": "https://placehold.co/400x500/34495e/FFF.png?text=Product+F"
     },
     {
       "id": 7,
       "name": "Sony PlayStation 5",
       "price": 499.99,
       "tags": ["Gaming", "New", "Popular"],
-      "image": "https://via.placeholder.com/150?text=Product+G"
+      "image": "https://placehold.co/400x500/34495e/FFF.png?text=Product+G"
     },
     {
       "id": 8,
       "name": "GoPro HERO10 Black",
       "price": 499.99,
       "tags": ["Outdoors", "Adventure", "Luxury"],
-      "image": "https://via.placeholder.com/150?text=Product+H"
+      "image": "https://placehold.co/400x500/34495e/FFF.png?text=Product+H"
     },
     {
       "id": 9,
       "name": "Olay Regenerist Micro-Sculpting Cream",
       "price": 29.99,
       "tags": ["Beauty", "Skincare", "Bestseller"],
-      "image": "https://via.placeholder.com/150?text=Product+I"
+      "image": "https://placehold.co/400x500/34495e/FFF.png?text=Product+I"
     },
     {
       "id": 10,
       "name": "Apple MacBook Air M2",
       "price": 1199.99,
       "tags": ["Electronics", "Tech", "New"],
-      "image": "https://via.placeholder.com/150?text=Product+J"
+      "image": "https://placehold.co/400x500/34495e/FFF.png?text=Product+J"
     },
     {
       "id": 11,
       "name": "LEGO Star Wars X-Wing Starfighter",
       "price": 79.99,
       "tags": ["Toys", "Kids", "Popular"],
-      "image": "https://via.placeholder.com/150?text=Product+K"
+      "image": "https://placehold.co/400x500/34495e/FFF.png?text=Product+K"
     },
     {
       "id": 12,
       "name": "West Elm Mid-Century Sofa",
       "price": 899.99,
       "tags": ["Furniture", "Living Room", "Luxury"],
-      "image": "https://via.placeholder.com/150?text=Product+L"
+      "image": "https://placehold.co/400x500/34495e/FFF.png?text=Product+L"
     },
     {
       "id": 13,
       "name": "Yeti Rambler 36oz Bottle",
       "price": 49.99,
       "tags": ["Sports", "Outdoor", "Active"],
-      "image": "https://via.placeholder.com/150?text=Product+M"
+      "image": "https://placehold.co/400x500/34495e/FFF.png?text=Product+M"
     },
     {
       "id": 14,
       "name": "Levi's 501 Original Fit Jeans",
       "price": 59.99,
       "tags": ["Clothing", "Men", "New"],
-      "image": "https://via.placeholder.com/150?text=Product+N"
+      "image": "https://placehold.co/400x500/34495e/FFF.png?text=Product+N"
     },
     {
       "id": 15,
       "name": "Breville BES870XL Barista Express Espresso Machine",
       "price": 799.99,
       "tags": ["Appliances", "Kitchen", "Sale"],
-      "image": "https://via.placeholder.com/150?text=Product+O"
+      "image": "https://placehold.co/400x500/34495e/FFF.png?text=Product+O"
     }
   ],
   "product_detail_1": {
@@ -118,11 +118,11 @@
     ],
     "description": "The Apple AirPods Pro 2nd Gen offer superior sound quality with Active Noise Cancellation and Spatial Audio. Perfect for music lovers and professionals.",
     "images": [
-      "https://via.placeholder.com/150?text=Product+A",
-      "https://via.placeholder.com/150?text=Product+A-1",
-      "https://via.placeholder.com/150?text=Product+A-2",
-      "https://via.placeholder.com/150?text=Product+A-3",
-      "https://via.placeholder.com/150?text=Product+A-4"
+      "https://placehold.co/400x500/34495e/FFF.png?text=Product+A",
+      "https://placehold.co/400x500/34495e/FFF.png?text=Product+A-1",
+      "https://placehold.co/400x500/34495e/FFF.png?text=Product+A-2",
+      "https://placehold.co/400x500/34495e/FFF.png?text=Product+A-3",
+      "https://placehold.co/400x500/34495e/FFF.png?text=Product+A-4"
     ]
   },
   "product_detail_2": {
@@ -139,11 +139,11 @@
     ],
     "description": "The Nike Air Max 270 React features a modern design with maximum comfort and style, perfect for both sports and casual wear.",
     "images": [
-      "https://via.placeholder.com/150?text=Product+B",
-      "https://via.placeholder.com/150?text=Product+B-1",
-      "https://via.placeholder.com/150?text=Product+B-2",
-      "https://via.placeholder.com/150?text=Product+B-3",
-      "https://via.placeholder.com/150?text=Product+B-4"
+      "https://placehold.co/400x500/34495e/FFF.png?text=Product+B",
+      "https://placehold.co/400x500/34495e/FFF.png?text=Product+B-1",
+      "https://placehold.co/400x500/34495e/FFF.png?text=Product+B-2",
+      "https://placehold.co/400x500/34495e/FFF.png?text=Product+B-3",
+      "https://placehold.co/400x500/34495e/FFF.png?text=Product+B-4"
     ]
   }
 }
